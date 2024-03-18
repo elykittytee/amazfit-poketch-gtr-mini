@@ -12,4 +12,8 @@ The Amazfit GTR 4 Mini
 ## How do I install?
 No idea yet.
 
+## Credits
+- Heavily inspired by and referenced [Idreesinc's Apple Watch Poketch](https://github.com/IdreesInc/Apple-Watch-Poketch)
+- Pokemon, obviously
+
 *This watch face is a fan creation. No proceeds or other transactions were committed for this to be made. All intellectual property belongs to The Pokemon Company International.*
