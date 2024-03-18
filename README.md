@@ -1,0 +1,1 @@
+# amazfit-poketch-gtr-mini
