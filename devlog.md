@@ -2,7 +2,7 @@
 ---
 
 ## 240318
-- Decided I wanted to make a Poketch watchface (finally
+- Decided I wanted to make a Poketch watchface (finally)
 - Created the devlog and repo
   
 ## 240311
